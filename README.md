@@ -2,7 +2,7 @@
 ### I'm beginner back-end developer
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width=130/>
+    <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width=100/>
 </div>
 <div id="badges">
     <a href="">
