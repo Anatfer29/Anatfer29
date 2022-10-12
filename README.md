@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width=100/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
     <a href="">
         <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.svg" alt="Discord" width=50 height=50/>
     </a>
