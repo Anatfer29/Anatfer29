@@ -34,7 +34,7 @@ I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox: How to reach me: [![Mail](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
 <a href="mailto:antomineleford@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail badge"/>
+    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail badge"/>
   </a>
 
 ### :bamboo: Languages and Tools :
