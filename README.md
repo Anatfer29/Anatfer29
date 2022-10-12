@@ -6,7 +6,7 @@
 </div>
 <div id="badges">
     <a href="">
-        <img src="\assets\discord.png" alt="Discord" width=40 height=40/>
+        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.png" alt="Discord" width=40 height=40/>
     </a>
 </div>
 
