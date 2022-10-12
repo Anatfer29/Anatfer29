@@ -6,17 +6,14 @@
 </div>
 <div id="badges">
     <a href="">
-        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.png" alt="Discord" width=40 height=40/>
-    </a>
-    <a href="">
-        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.png" alt="Telegramm" width=40 height=40/>
-    </a>
-    <a href="">
-        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.png" alt="Telegramm" width=40 height=40/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Discord&logoColor=white"" alt="Discord" width=40 height=40/>
     </a>
 </div>
 
+<div align=center>
+
 ### Hey there!
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
 
