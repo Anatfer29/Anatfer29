@@ -1,6 +1,3 @@
-
-### I'm beginner back-end developer
-
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width=70/>
 </div>
@@ -36,6 +33,9 @@ I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :shipit: Keep a personal blog about IT.
 
 - :mailbox: How to reach me: [![Mail](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
+<a href="mailto:antomineleford@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail badge"/>
+  </a>
 
 ### :bamboo: Languages and Tools :
 <div>
