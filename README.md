@@ -8,6 +8,9 @@
     <a href="">
         <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white"" alt="Discord"/>
     </a>
+    <a href="https://t.me/usedotp">
+       <img src="https://toplogos.ru/images/thumbs/preview-logo-telegram.png"  alt="Telegram"/>
+    </a>
 </div>
 
 <div align=center>
@@ -23,7 +26,9 @@ I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+
+- :shipit: Keep a personal blog about IT.
 
 ### :bamboo: Languages and Tools :
 <div>
