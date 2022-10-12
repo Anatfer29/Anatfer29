@@ -14,7 +14,7 @@
     </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
 
 <div align=center>
 
