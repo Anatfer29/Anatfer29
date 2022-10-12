@@ -4,12 +4,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width=100/>
 </div>
+
 <div id="badges">
     <a href="">
-        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.svg" alt="Discord"/>
+        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.svg" alt="Discord" width=50 height=50/>
     </a>
     <a href="https://t.me/usedotp">
-       <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/telegram.svg"  alt="Telegram"/>
+       <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/telegram.svg"  alt="Telegram" width=50 height=50/>
     </a>
 </div>
 
