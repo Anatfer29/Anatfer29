@@ -13,12 +13,13 @@
     </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
+
 <div align=center>
 
 ### Hey there!
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
 
 I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -29,6 +30,8 @@ I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :shipit: Keep a personal blog about IT.
+
+- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
 
 ### :bamboo: Languages and Tools :
 <div>
