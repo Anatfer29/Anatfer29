@@ -38,7 +38,7 @@ I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :shipit: Keep a personal blog about IT.
 
-- :mailbox: How to reach me: ![Gmail](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
+- :mailbox: How to reach me: [![Mail](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
 
 ### :bamboo: Languages and Tools :
 <div>
