@@ -9,6 +9,9 @@
     <a href="https://t.me/usedotp">
        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/telegram.svg"  alt="Telegram" width=50 height=50/>
     </a>
+    <a href="https://www.codewars.com/users/Geesam">
+       <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/codewars.svg"  alt="CodeWars" width=50 height=50/>
+    </a>
 </div>
 
 <div align=center>
