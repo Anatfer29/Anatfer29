@@ -26,6 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
+    <img src="https://www.google.com/search?q=django+icon&sxsrf=ALiCzsaJQil0ueeVW8drMlvos6vxRFz6-A:1665580447706&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjRnbjX4tr6AhWDlosKHbKBDegQ_AUoAXoECAMQAw&biw=1536&bih=754&dpr=1.25#imgrc=23zUL_xoywc5PM" title="Django" alt="Django" width="50" height="50"/>
 </div>
 
 
