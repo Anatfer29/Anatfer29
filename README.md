@@ -14,7 +14,9 @@
     </a>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
+<div align=center>
+    <img align="center" src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
+</div>
 
 <div align=center>
 
