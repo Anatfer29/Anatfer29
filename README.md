@@ -6,10 +6,10 @@
 </div>
 <div id="badges">
     <a href="">
-        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white"" alt="Discord"/>
+        <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/discord.svg" alt="Discord"/>
     </a>
     <a href="https://t.me/usedotp">
-       <img src="https://toplogos.ru/images/thumbs/preview-logo-telegram.png"  alt="Telegram"/>
+       <img src="https://github.com/Anatfer29/Anatfer29/blob/main/assets/telegram.svg"  alt="Telegram"/>
     </a>
 </div>
 
@@ -31,7 +31,7 @@ I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :shipit: Keep a personal blog about IT.
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
+- :mailbox: How to reach me: [![Mail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:antomineleford@gmail.com)
 
 ### :bamboo: Languages and Tools :
 <div>
