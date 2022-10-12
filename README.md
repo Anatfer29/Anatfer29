@@ -25,7 +25,7 @@
 
 
 
-I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a beginner python back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
