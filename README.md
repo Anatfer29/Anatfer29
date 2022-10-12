@@ -2,7 +2,7 @@
 ### I'm beginner back-end developer
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width=100/>
+    <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width=80/>
 </div>
 
 <div id="badges" align="center">
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
 </div>
 
 
