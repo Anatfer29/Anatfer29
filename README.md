@@ -17,6 +17,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Anatfer29&style=plastic-square&color=blue" alt="Total stalkers"/>
 
+I am a back-end  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+:telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 ### :bamboo: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -33,6 +41,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anatfer29&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anatfer29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Anatfer29/Anatfer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
